@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --cor-de-fundo: #4d154b;
     --verde: #d895dc;
-    --branco: #bf4b9b;
+    --branco: #e12d6f;
     --botao-ativo: #eeb3e9;
     --botao-inativo: rgb(142 35 65 / 54%);
-    --texto-fundo: rgb(183 61 128 / 30%);
+    --texto-fundo: rgb(75 18 49 / 75%);
 }
 
 
