@@ -11,7 +11,7 @@
 
 
 body {
-    background-image: fundo-tela.jpg;
+    background-image: url('fundo-tela.jpg');
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
